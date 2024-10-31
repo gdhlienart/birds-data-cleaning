@@ -1,0 +1,6 @@
+biologist_id,name,specialization,years_experience,birth_year
+1,Alice Smith,Ornithology,10.0,1980
+2,Bob Johnson,ecology,15.0,1975
+3,Catherine Lee,ornitology,,1988
+4,David Nguyen,Ecology,5.0,1990
+5,Emily Davis,ornithology,20.0,1985
